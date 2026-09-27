@@ -17,5 +17,6 @@ This task demonstrates different CSS selectors and CSS styling without using Boo
 - Universal Selector
 - Descendant Selector
 - Direct Child Selector
-- CSS Pseudo-classes
+- CSS Pseudo-classes- through this method i can ditinguish both anchor tags and style them accordingly to the requirements .
+  this class is found by my self .
 - Colors in CSS
