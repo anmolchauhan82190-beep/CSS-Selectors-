@@ -1,0 +1,33 @@
+body{
+    background-color: #FF7F7F;
+}
+.head{
+    color: blue;
+}
+#bglime{
+    background-color: rgb(89, 233, 89);
+}
+.headcolor{
+    color: red;
+}
+p{
+    color: white;
+    font-size: x-large;
+}
+#para{
+    color: green;
+    font-size: large;
+}
+.paragraph{
+    color: black;
+    font-size: larger;
+}
+ul li{
+    color: white;
+}
+ul > li:first-child > a {
+    background-color: yellow;
+}
+ul > li:last-child > a {
+    background-color: blueviolet;
+}
